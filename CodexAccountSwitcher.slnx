@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CodexAccountSwitcher.Core/CodexAccountSwitcher.Core.csproj" />
+    <Project Path="src/CodexAccountSwitcher/CodexAccountSwitcher.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CodexAccountSwitcher.Tests/CodexAccountSwitcher.Tests.csproj" />
+  </Folder>
+</Solution>
